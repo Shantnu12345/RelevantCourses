@@ -18,16 +18,14 @@ Contains list of all courses that are crucial to Autonomous Vehicles and Robotic
 - [Robotics][24], _Columbia University in the city of New York_
 - Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
 
-#C++
- 	• Coursera:
-		○ https://www.coursera.org/learn/c-plus-plus-a#syllabus
-		○ https://www.coursera.org/learn/c-plus-plus-b
-	• Udacity c++ for programmers
-	• Edx:
-		○ https://www.edx.org/course/introduction-c-microsoft-dev210x-6
-		○ https://www.edx.org/course/intermediate-c-microsoft-dev210-2x-0
-		○ https://www.edx.org/xseries/fundamentals-computer-science
-Google: https://developers.google.com/edu/c++/
+# C++
+	- https://www.coursera.org/learn/c-plus-plus-a
+	- https://www.coursera.org/learn/c-plus-plus-b
+	- Udacity c++ for programmers
+	- https://www.edx.org/course/introduction-c-microsoft-dev210x-6
+	- https://www.edx.org/course/intermediate-c-microsoft-dev210-2x-0
+	- https://www.edx.org/xseries/fundamentals-computer-science
+    - Google: https://developers.google.com/edu/c++/
 
 ### Coursera
 - [Control of Mobile Robots][27], _Georgia Institute of technology_
